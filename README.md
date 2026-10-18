@@ -91,7 +91,7 @@ Bachelor's degree in Computer Science
 
 I'm always interested in learning from others, collaborating on meaningful projects, and connecting with people working in data analytics, data science and software development.
 
-- 📧 Email: [gaurabsubedi299@gmail.com](mailto:gaurabsubedi299@gmail.com)
+- 📧 Email: [gaurabsubedi299@gmail.com](mailto:gauravsubedi06@gmail.com)
 - 🌐 Portfolio: [gaurav-subedi.com.np](https://www.gaurav-subedi.com.np/)
 
 ---
