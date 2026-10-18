@@ -14,7 +14,7 @@ I'm interested in exploring datasets, uncovering patterns, building insightful d
 - 🤖 **Machine learning:** Scikit-learn, statistics, machine learning and deep learning fundamentals
 - 💻 **Previous development experience:** JavaScript, React, Node.js and Flutter
 - 🌐 **Portfolio:** [gaurav-subedi.com.np](https://www.gaurav-subedi.com.np/)
-- 📫 **Email:** [gaurabsubedi299@gmail.com](mailto:gaurabsubedi299@gmail.com)
+- 📫 **Email:** [gaurabsubedi299@gmail.com](mailto:gauravsubedi06@gmail.com)
 
 ---
 
