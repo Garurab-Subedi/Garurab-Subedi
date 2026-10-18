@@ -1,27 +1,99 @@
-<h1 align="center">Hi 👋, I'm Gaurab Subedi</h1>
-<h3 align="center">I am from Nepal. Studied Bachelors in Computer Science @Informatics Collage</h3>
+# Hi, I'm Gaurab Subedi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurab-subedi&label=Profile%20views&color=0e75b6&style=flat" alt="gaurab-subedi" /> </p>
+### Computer Science Master's Student | Aspiring Data Analyst & Data Scientist
 
-- 🌱 I’m currently learning **Web development(react.js),backend(node.js) & flutter(intermediate)**
+🎓 I'm pursuing my Master's studies in Computer Science at **Laurentian University, Canada**. With a background in software development, I'm transitioning toward data analytics and data science, combining programming skills with analytical thinking to solve real-world problems.
 
-- 🔭 I’m currently working on **Flutter Project**
+I'm interested in exploring datasets, uncovering patterns, building insightful dashboards, and developing machine learning models.
 
-- 👨‍💻 All of my projects are available at my portfolio site [https://www.gaurav-subedi.com.np/](https://www.gaurav-subedi.com.np/)
+- 🎓 **Currently studying:** Computer Science at Laurentian University
+- 📊 **Career interests:** Data Analytics, Business Intelligence & Data Science
+- 🐍 **Data analysis:** Python, Pandas, NumPy, Jupyter Notebook
+- 🗄️ **Databases:** SQL, MySQL, PostgreSQL, MongoDB
+- 📈 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- 🤖 **Machine learning:** Scikit-learn, statistics, machine learning and deep learning fundamentals
+- 💻 **Previous development experience:** JavaScript, React, Node.js and Flutter
+- 🌐 **Portfolio:** [gaurav-subedi.com.np](https://www.gaurav-subedi.com.np/)
+- 📫 **Email:** [gaurabsubedi299@gmail.com](mailto:gaurabsubedi299@gmail.com)
 
-- 💬 Ask me about **React, flutter, Nodejs and MERN**
+---
 
-- 📫 Email at me **gaurabsubedi299@gmail.com**
+## 🧰 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Data Analysis & Programming
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer">  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurab-subedi&show_icons=true&locale=en&layout=compact" alt="gaurab-subedi" /></p>
+### Business Intelligence & Visualization
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurab-subedi&show_icons=true&locale=en" alt="gaurab-subedi" /></p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurab-subedi&" alt="gaurab-subedi" /></p>
+### Machine Learning & Data Science
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-5C6BC0?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A5ACD?style=for-the-badge)
+
+### Databases & Software Development
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 What I'm Exploring
+
+- **Exploratory Data Analysis:** Data cleaning, descriptive statistics, pattern discovery and insight generation.
+- **SQL Analytics:** Querying relational databases to answer analytical questions.
+- **Business Intelligence:** Designing dashboards and communicating findings through data visualization.
+- **Machine Learning:** Learning model development, evaluation and predictive analytics.
+- **Data-Driven Applications:** Combining my software development background with analytical tools.
+
+## 🚀 Featured Projects
+
+I use projects to turn concepts into practical experience. My goal is to build a portfolio that demonstrates the complete analytical process, from defining a problem to communicating the results.
+
+<!-- Replace these entries with links to completed repositories. -->
+
+| Project | Focus | Technologies |
+|---|---|---|
+| Exploratory Data Analysis | Data cleaning, trends and insights | Python, Pandas, Seaborn |
+| SQL Data Analysis | Business questions and reporting | SQL, PostgreSQL |
+| Business Intelligence Dashboard | KPIs and interactive reporting | Power BI, Excel |
+| Machine Learning Project | Predictive modeling and evaluation | Python, Scikit-learn |
+
+*Project links and findings will be added as each project is completed and documented.*
+
+## 🎓 Education
+
+**Laurentian University** — Ontario, Canada  
+Master's studies in Computer Science
+
+**Informatics College**  
+Bachelor's degree in Computer Science
+
+## 🤝 Connect With Me
+
+I'm always interested in learning from others, collaborating on meaningful projects, and connecting with people working in data analytics, data science and software development.
+
+- 📧 Email: [gaurabsubedi299@gmail.com](mailto:gaurabsubedi299@gmail.com)
+- 🌐 Portfolio: [gaurav-subedi.com.np](https://www.gaurav-subedi.com.np/)
+
+---
+
+*From software development to data-driven problem-solving — learning, building, and growing one project at a time.*
